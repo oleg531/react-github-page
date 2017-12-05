@@ -8,4 +8,4 @@ npm start
 
 And you will see this:
 
-![Scheme](readme/images/result.PNG)
+![Scheme](readme/images/result.png)
