@@ -1,0 +1,28 @@
+.number-info-block {
+  border-top: 1px solid grey;
+  border-right: 1px solid grey;
+  flex-grow: 1;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.number-info-block:last-of-type{
+    border-right: none;
+}
+
+
+.number-info-block .block-header {
+  font-size: 0.7em;
+  color: grey;
+}
+
+.number-info-block .block-content {
+  font-size: 2em;
+}
+
+.number-info-block .block-footer {
+  font-size: 0.7em;
+  color: grey;
+}

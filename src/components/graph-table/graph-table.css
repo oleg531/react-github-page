@@ -1,0 +1,6 @@
+.graph-table{
+    flex-grow: 2;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}

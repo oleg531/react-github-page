@@ -1,0 +1,16 @@
+.graph-table-footer{
+    display: flex;
+    justify-content: space-between;
+    
+    font-size: .8em;
+    color: grey;
+}
+
+.graph-table-footer .less-more-colors{
+    display: flex;
+    margin: 0 10px;
+}
+
+.graph-table-footer .less-more-content{
+    display: flex;
+}

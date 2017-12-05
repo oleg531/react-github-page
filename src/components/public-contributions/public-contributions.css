@@ -1,0 +1,30 @@
+.public-contributions{
+    border: 1px solid grey;
+    height: 300px;
+    width: 800px;
+    border-radius: 3px;;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.public-contributions .header{
+    border-bottom: 1px solid grey;
+    text-align: left;
+    padding: 10px;
+    line-height: 20px;
+    font-weight: bold;
+    background-color: #F5F5F5;
+}
+
+.public-contributions .body{
+    flex-grow: 1;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.public-contributions .body .number-blocks{
+    display: flex;
+    flex-grow: 1;
+}
